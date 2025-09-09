@@ -1,0 +1,15 @@
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/bin/Debug/net8.0/MinhaTV
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/bin/Debug/net8.0/MinhaTV.deps.json
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/bin/Debug/net8.0/MinhaTV.runtimeconfig.json
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/bin/Debug/net8.0/MinhaTV.dll
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/bin/Debug/net8.0/MinhaTV.pdb
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/MinhaTV.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/MinhaTV.AssemblyInfoInputs.cache
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/MinhaTV.AssemblyInfo.cs
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/MinhaTV.csproj.CoreCompileInputs.cache
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/MinhaTV.sourcelink.json
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/MinhaTV.dll
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/refint/MinhaTV.dll
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/MinhaTV.pdb
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/MinhaTV.genruntimeconfig.cache
+/workspaces/2025-2-POO-SEGUNDA/MinhaTV/obj/Debug/net8.0/ref/MinhaTV.dll
